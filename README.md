@@ -199,7 +199,7 @@ DESTINATION: SOFTWARE ENGINEERING
 <br>
 
 <a href="https://github.com/anerd-netizen">
-  <img src="https://img.shields.io/badge/GitHub%20%E2%80%A2%20Explore%20My%20Code-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20%E2%80%A2%20Explore%20My%20Code-black?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
