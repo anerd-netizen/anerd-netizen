@@ -100,9 +100,14 @@ A weather dashboard built with HTML, CSS, and JavaScript, designed to present we
 
 **Pharmacy Management Dashboard**
 
-A pharmacy-focused dashboard project built with TypeScript, exploring dashboard interfaces and the organization of pharmacy-related information.
+A pharmacy inventory dashboard featuring real-time medicine stock monitoring and authenticated inventory management.
 
-`TypeScript` `Web Development`
+- **Public Access:** Visitors can view medicine names and current stock quantities without logging in.
+- **Live Synchronization:** Stock changes made by the authorized user are reflected in real time for other visitors.
+- **Secure Management:** Authentication is required to add, update, or manage medicine inventory.
+- **No Demo Login Required:** Visitors can explore the live inventory directly without demo credentials.
+
+`TypeScript` `Next.js` `Supabase` `PostgreSQL` `Authentication` `Realtime`
 
 ---
 
