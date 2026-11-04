@@ -86,7 +86,7 @@ An interactive visualizer that demonstrates how sorting and pathfinding algorith
 
 ---
 
-### 🌦️ [Weather Dashboard](https://github.com/anerd-netizen/Weather-Dashboard)
+### 🌦️ [Weather Dashboard](https://anerd-netizen.github.io/Weather-Dashboard/)
 
 **Weather Information Dashboard**
 
@@ -96,7 +96,7 @@ A weather dashboard built with HTML, CSS, and JavaScript, designed to present we
 
 ---
 
-### 💊 [Pharmacy Dashboard](https://github.com/anerd-netizen/pharmacy-dashboard)
+### 💊 [Pharmacy Dashboard](https://pharmacy-dashboard-git-main-anerd-netizens-projects.vercel.app/)
 
 **Pharmacy Management Dashboard**
 
@@ -106,7 +106,7 @@ A pharmacy-focused dashboard project built with TypeScript, exploring dashboard 
 
 ---
 
-### 🏥 [Yogi Medicare](https://github.com/anerd-netizen/yogi-medicare)
+### 🏥 [Yogi Medicare](https://anerd-netizen.github.io/yogi-medicare/)
 
 **Pharmacy Website**
 
@@ -116,7 +116,7 @@ A pharmacy-related website focused on presenting pharmacy information and creati
 
 ---
 
-### ✅ [To-Do List](https://github.com/anerd-netizen/To-Do-List)
+### ✅ [To-Do List](https://anerd-netizen.github.io/To-Do-List/)
 
 **Task Management Application**
 
