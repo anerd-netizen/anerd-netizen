@@ -1,208 +1,226 @@
-<!-- ===================================================== -->
-<!--                  PARAM'S GITHUB PROFILE               -->
-<!-- ===================================================== -->
+# 🌌 Param Marsoniya
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,50:1D4ED8,100:06B6D4&text=PARAM%20MARSONIYA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Building%20Ideas%20Into%20Reality&descAlignY=58&descSize=17" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,30:111B45,65:312E81,100:0EA5E9&text=PARAM%20MARSONIYA&fontSize=46&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=EXPLORING%20THE%20UNIVERSE%20OF%20CODE&descAlignY=60&descSize=15" width="100%" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Java+%26+Object-Oriented+Programming;Aspiring+Software+Engineer;Learning+DSA+One+Problem+At+A+Time;Exploring+Open+Source+%26+Web+Development" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Welcome+to+my+digital+universe.;Turning+curiosity+into+code.;Building+ideas+that+go+beyond+the+ordinary.;Learning.+Experimenting.+Creating.;One+commit+closer+to+the+stars." alt="Typing SVG" />
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="180" alt="Space animation" />
+
+**Second-Year Computer Science Engineering Student · LJIET**
+
+</div>
+
+---
+
+## 🪐 About Me
+
+I'm a **second-year Computer Science Engineering student at LJIET**, interested in software development, problem-solving, and building practical projects.
+
+I have a solid foundation in **Java and Object-Oriented Programming**, and I'm continuously improving my Data Structures & Algorithms skills while exploring web technologies and databases.
+
+I enjoy turning ideas into working projects, exploring new technologies, reading other developers' code, and contributing to the developer community.
+
+🌐 **Portfolio & freelancing:** [anerd-netizen.github.io/param-marsoniya](https://anerd-netizen.github.io/param-marsoniya/)
+
+> *Somewhere between curiosity and code, new possibilities are discovered.*
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0EA5E9,50:312E81,100:050816&section=header" width="100%" />
+</div>
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🎨 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 🧠 Core Computer Science
+
+`Object-Oriented Programming` · `Data Structures & Algorithms` · `Database Fundamentals` · `Problem Solving`
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0EA5E9,50:312E81,100:050816&section=header" width="100%" />
+</div>
+
+---
+
+## 🛰️ Featured Projects
+
+*Signals received from my development universe.*
+
+### ⚡ [Stepwise](https://github.com/anerd-netizen/stepwise)
+
+**Interactive Sorting & Pathfinding Visualizer**
+
+An interactive visualizer that demonstrates how sorting and pathfinding algorithms work, one step at a time. Includes live statistics to track comparisons, writes, and explored cells.
+
+- Sorting: Bubble, Insertion, Selection, Merge, Quick, and Heap Sort.
+- Pathfinding: A*, Dijkstra, BFS, DFS, and Greedy Best-First Search.
+- Supports different input patterns, walls, weighted cells, and random mazes.
+- Built using JavaScript generators, Canvas 2D, and a binary min-heap.
+
+`JavaScript` `HTML5` `CSS3` `Canvas API` `Algorithms`
+
+---
+
+### 🌦️ [Weather Dashboard](https://github.com/anerd-netizen/Weather-Dashboard)
+
+**Weather Information Dashboard**
+
+A weather dashboard built with HTML, CSS, and JavaScript, designed to present weather information through a clean and accessible interface.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### 💊 [Pharmacy Dashboard](https://github.com/anerd-netizen/pharmacy-dashboard)
+
+**Pharmacy Management Dashboard**
+
+A pharmacy-focused dashboard project built with TypeScript, exploring dashboard interfaces and the organization of pharmacy-related information.
+
+`TypeScript` `Web Development`
+
+---
+
+### 🏥 [Yogi Medicare](https://github.com/anerd-netizen/yogi-medicare)
+
+**Pharmacy Website**
+
+A pharmacy-related website focused on presenting pharmacy information and creating a user-friendly web experience.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+### ✅ [To-Do List](https://github.com/anerd-netizen/To-Do-List)
+
+**Task Management Application**
+
+A simple task management application designed to help users organize everyday tasks through a straightforward interface.
+
+`HTML` `CSS` `JavaScript`
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:0EA5E9,50:312E81,100:050816&section=header" width="100%" />
+</div>
+
+---
+
+## 🌠 Current Mission
+
+```text
+MISSION STATUS: ACTIVE
+
+[ IN PROGRESS ]
+
+✦ Strengthening Data Structures & Algorithms
+✦ Solving LeetCode problems
+✦ Improving Java and software design
+✦ Learning database management
+✦ Improving frontend development skills
+✦ Exploring open-source repositories
+✦ Building practical, resume-worthy projects
+
+DESTINATION: SOFTWARE ENGINEERING
+```
+
+---
+
+## 🧭 Learning Roadmap
+
+| Mission | Status |
+|---|---|
+| Java fundamentals | ✅ Completed |
+| Object-Oriented Programming | ✅ Completed |
+| Build and publish web projects | ✅ Completed |
+| Strengthen DSA | 🔄 In Progress |
+| Solve more algorithmic problems | 🔄 In Progress |
+| Make meaningful open-source contributions | ⏳ Upcoming |
+| Build production-quality projects | ⏳ Upcoming |
+
+---
+
+## 👨‍🚀 Career Interests
+
+- Software Engineering
+- Frontend Development
+- Problem Solving & Data Structures and Algorithms
+- Open-Source Contributions
+- Software Development Internships
+
+---
+
+## 🌌 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=anerd-netizen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<br/><br/>
+
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=anerd-netizen&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=anerd-netizen&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+
+</div>
+
+---
+
+## 📡 Establish Connection
+
+<div align="center">
+<br>
+<br>
+
+<a href="https://github.com/anerd-netizen">
+  <img src="https://img.shields.io/badge/GitHub%20%E2%80%A2%20Explore%20My%20Code-black?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/>
 
-<a href="https://github.com/anerd-netizen">
-<img src="https://komarev.com/ghpvc/?username=anerd-netizen&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&width=420&color=0:0EA5E9,50:312E81,100:0EA5E9&section=header" />
+
+<br/>
+<br>
+
+<a href="https://www.linkedin.com/in/param-marsoniya-10406b206/">
+  <img src="https://img.shields.io/badge/LinkedIn%20%E2%80%A2%20Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/anerd-netizen?tab=followers">
-<img src="https://img.shields.io/github/followers/anerd-netizen?label=FOLLOWERS&style=for-the-badge&color=blue" alt="Followers"/>
-</a>
-<a href="https://github.com/anerd-netizen?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Repositories"/>
-</a>
-
-</div>
-
----
-
-## `01` / ABOUT ME
-
-```yaml
-name: Param Marsoniya
-role: Computer Science & Engineering Student
-location: India
-currently_focused_on:
-  - Data Structures & Algorithms
-  - Java & Object-Oriented Programming
-  - Web Development
-  - Open Source Contributions
-  - Building Practical Projects
-
-mindset: Learn. Build. Break. Improve. Repeat.
-```
-
-I'm a Computer Science student passionate about understanding how software works and turning ideas into practical projects.
-
-I enjoy solving programming problems, exploring new technologies, and building things that help me become a better engineer.
-
-My current focus is strengthening my foundations in computer science, improving my problem-solving abilities, and gaining real-world development experience through projects and open-source contributions.
-
-**I believe in understanding the fundamentals, writing meaningful code, and improving a little every day.**
-
----
-
-## `02` / WHAT I'M CURRENTLY DOING
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Building
-
-- Working on personal development projects.
-- Improving frontend development skills.
-- Experimenting with practical software ideas.
-- Maintaining my GitHub portfolio.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Learning
-
-- Data Structures & Algorithms.
-- Advanced Java and OOP.
-- Problem-solving patterns.
-- Responsive web development.
-- Git and open-source workflows.
-
-</td>
-</tr>
-</table>
-
----
-
-## `03` / TECH STACK & TOOLS
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-### Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
-
-### Core Concepts
-
-<p>
-<img src="https://img.shields.io/badge/Object--Oriented%20Programming-2C3E50?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Structures-34495E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Problem%20Solving-1F6FEB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Responsive%20Design-0E7490?style=flat-square"/>
-</p>
-
----
-
-## `04` / FEATURED PROJECTS
-
-<div align="center">
-
-<a href="https://github.com/anerd-netizen/stepwise">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=anerd-netizen&repo=stepwise&theme=tokyonight&hide_border=true" width="48%" alt="Stepwise repository"/>
-</a>
-
-</div>
-
-### Other Development Work
-
-| Project | Description | Technology |
-|---|---|---|
-| Student Management System | Student records, search, update, sorting and academic performance analysis. | Java, OOP |
-| LifeOS | Personal productivity project currently in development. | In development |
-
-[Explore all my repositories →](https://github.com/anerd-netizen?tab=repositories)
-
----
-
-## `05` / MY DEVELOPER JOURNEY
-
-I don't believe in learning just to collect technologies. I want to understand them well enough to build useful things.
-
-**My current roadmap:**
-
-- [x] Build a foundation in Java.
-- [x] Understand Object-Oriented Programming.
-- [x] Build a Java-based Student Management System.
-- [x] Create and publish a web project.
-- [ ] Strengthen Data Structures & Algorithms.
-- [ ] Solve more algorithmic problems.
-- [ ] Make meaningful open-source contributions.
-- [ ] Build more polished, production-quality projects.
-
-*The roadmap is ongoing. Every project and problem is another opportunity to improve.*
-
----
-
-## `06` / GITHUB STATISTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anerd-netizen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anerd-netizen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=anerd-netizen&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+*Always open to learning from other developers, exploring interesting projects, and collaborating on meaningful ideas.*
 
-</div>
+### `KEEP EXPLORING. KEEP BUILDING. KEEP REACHING BEYOND.`
 
----
-
-## `07` / CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anerd-netizen&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-## `08` / CONNECT WITH ME
-
-I'm always open to connecting with developers, learning from experienced engineers, exploring interesting projects, and collaborating on meaningful ideas.
-
-<div align="center">
-
-<a href="https://github.com/anerd-netizen">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### "Great software is built one thoughtful line of code at a time."
-
-**Thanks for visiting my profile!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,40:312E81,100:050816" width="100%" />
 
 </div>
